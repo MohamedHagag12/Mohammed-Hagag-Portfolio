@@ -393,7 +393,7 @@ h2{
         margin-top: 5rem;
     }
     header div.header-content>img{
-        max-width: 100%;
+        max-width: 350px;
         margin: auto;
         
     }
@@ -428,7 +428,7 @@ h2{
         font-size: 16px;
     }
     header div.header-content>img{
-        max-width: 177px;
+        max-width: 300px;
     }
     h2{
         font-size: 30px;
