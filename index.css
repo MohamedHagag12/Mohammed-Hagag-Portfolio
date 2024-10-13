@@ -428,7 +428,7 @@ h2{
         font-size: 16px;
     }
     header div.header-content>img{
-        max-width: 300px;
+        max-width: 230px;
     }
     h2{
         font-size: 30px;
@@ -447,5 +447,9 @@ h2{
     }
     #contact .row{
         padding: 2rem 1rem;
+    }
+    header div.header-content div.content-text {
+        margin-bottom: 0rem;
+        margin-top: 0rem;
     }
 }
