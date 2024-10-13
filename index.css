@@ -395,6 +395,7 @@ h2{
     header div.header-content>img{
         max-width: 350px;
         margin: auto;
+        overflow:hidden;
     }
     header div.header-content div.content-text h1{
         font-size: 50px;
