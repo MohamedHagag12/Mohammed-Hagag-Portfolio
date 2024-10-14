@@ -420,7 +420,7 @@ h2{
 }
 @media (max-width:528px){
     header div.header-content div.content-text h1{
-        font-size: 35px;
+        font-size: 25px;
     }
     header div.header-content div.content-text .primary-text,
     header div.header-content div.content-text .title
