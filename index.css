@@ -452,4 +452,7 @@ h2{
         margin-bottom: 0rem;
         margin-top: 1rem;
     }
+    header div.header-content div.content-text div.social-icons{
+    margin: 1rem 0 1rem;
+}
 }
