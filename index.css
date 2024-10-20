@@ -410,6 +410,9 @@ h2{
     #services .row{
         grid-template-columns: repeat(2,1fr);
     }
+    #portfolio .row{
+        grid-template-columns: repeat(2,1fr);
+    }
     #contact .row{
         grid-template-columns: 1fr;
     }
